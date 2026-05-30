@@ -2,7 +2,7 @@
 
 **Mata Kuliah:** Praktikum Pemodelan Statistika  
 **Nama:** Iklil Najmi Hamzah  
-**NIM:** 3325600003
+**NRP:** 3325600003
 
 ---
 
